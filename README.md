@@ -25,5 +25,3 @@ Hi, I am Irfan. I am currently learning backend development with Node.js and Mon
 [![](https://visitcount.itsvg.in/api?id=parjival&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-ssh-keygen -t ed25519 -C "your_email@example.com"
-ssh-keygen -t ed25519 -C "irfan.huda2000@gmail.com"
